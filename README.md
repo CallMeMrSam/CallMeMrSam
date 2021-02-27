@@ -1,6 +1,9 @@
-### Social links
-[YouTube](http://sam-dev.tk/)
-[Discord](http://sam-dev.tk/discord)
+### Social Links - 🔗
+- [YouTube](http://sam-dev.tk/) - My YouTube channel
+- [Discord](http://sam-dev.tk/discord) - My french discord server
+
+### About Me - 👤
+My name is Samuel, I am a french student passionate about programming. I am currently creating discord bots but I am also very intrested by backend programming. I have been doing all this for over 3 years.
 
 <!--
 **CallMeMrSam/CallMeMrSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
