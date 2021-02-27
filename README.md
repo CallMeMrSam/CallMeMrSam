@@ -1,4 +1,6 @@
-### Hi there 👋
+### Social links
+[YouTube](http://sam-dev.tk/)
+[Discord](http://sam-dev.tk/discord)
 
 <!--
 **CallMeMrSam/CallMeMrSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
